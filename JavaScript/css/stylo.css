@@ -1,0 +1,34 @@
+ .inicio {
+	width: 0%;
+}
+
+.final{
+	width: 100%;
+}
+
+
+.animacion{
+	transition: all 2s ease .5s;
+}
+
+.menu-iconos{
+	width: 45px;
+	position: fixed;
+}
+
+.hidden{
+	margin-left: -60px;
+	width: 0px;
+	
+
+}
+
+.fa-share-alt{
+	cursor: pointer;
+}
+
+#iconos-sociales{
+
+	width: 100%;
+	transition: all 0.5s ease;
+}
